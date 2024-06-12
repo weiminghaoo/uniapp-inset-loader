@@ -1,6 +1,6 @@
 {
   "name": "uniapp-inset-loader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "在sfc模板指定位置插入自定义内容",
   "main": "index.js",
   "repository": {

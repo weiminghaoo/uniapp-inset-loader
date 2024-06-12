@@ -53,7 +53,7 @@ module.exports = function (content) {
 			<template>
 				${templateCode}
 			</template>
-			<script>
+			<script lang="${compiler.script.lang || 'js'}">
 				${compiler.script.content}
 			</script>
 			${style}
